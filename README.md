@@ -2,10 +2,19 @@
 
 <img height = "100%" src = "https://github.com/heyyana/heyyana/assets/110052074/7edb15e3-2e84-4edd-b4ff-25f698de9bc7" >
 
-## Bem vindo, eu sou a Ana!
+<div align="center">
+  
+## Oi, eu sou a Ana!
 
+</div>
+
+<div align="center">
 - 👩🏾‍💻 Sou formada no curso técnico de Desenvolvimento de Sistemas pela Etec Jales.
+</div>
+<div align="center">
 - 🌻 Altualmente estou graduando Análise e Desenvolvimento de Sistemas pela Fatec Jales.
+</div>
+<br>
 
 <div align="center">
   <a href="https://github.com/heyyana/">
