@@ -1,3 +1,5 @@
+<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+
 ## Bem vindo, eu sou a Ana!
 
 - 👩🏾‍💻 Sou formada no curso técnico de Desenvolvimento de Sistemas pela Etec Jales.
@@ -19,9 +21,22 @@
 </div>
 
 ##
- 
+
 <div> 
-  <a href="https://www.linkedin.com/in/anacarolinaconceicao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+ <img align="left" height="200" width="200" src= "https://github.com/heyyana/heyyana/assets/110052074/963a0cfa-fc48-4d98-a57a-c2703cdc1320"/>
 </div>
+
+
+<div style= "display: grid">
+<a style="margin-left: -100px" href="https://www.linkedin.com/in/anacarolinaconceicao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
+<br>
+
+
+<div style= "display: grid">
+  <a href = "mailto:anaacconceicao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>  
+<br>
+
   
   ![Snake animation](https://github.com/heyyana/heyyana/blob/output/github-contribution-grid-snake.svg)
