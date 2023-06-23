@@ -1,6 +1,6 @@
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
-<img height = "100%" src = "https://github.com/heyyana/heyyana/assets/110052074/27c67343-608b-47f3-9ab3-0cc47a523df4" >
+<img height = "100%" src = "https://github.com/heyyana/heyyana/assets/110052074/7edb15e3-2e84-4edd-b4ff-25f698de9bc7" >
 
 ## Bem vindo, eu sou a Ana!
 
