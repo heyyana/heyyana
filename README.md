@@ -27,7 +27,7 @@
 <div> 
  <img align="left" height="200" width="200" src= "https://github.com/heyyana/heyyana/assets/110052074/963a0cfa-fc48-4d98-a57a-c2703cdc1320"/>
 </div>
-
+<br>
 
 <div style= "display: grid">
 <a style="margin-left: -100px" href="https://www.linkedin.com/in/anacarolinaconceicao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
