@@ -19,8 +19,7 @@
 <div>
 - ☀️ Tenho bastante interesse em UX/UI.
 </div>
-<br> <br> <br> <br> <br> <br> <br> <br>
-
+<br> <br> <br> <br> <br> <br>
 <div align="center">
   <a href="https://github.com/heyyana/">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=heyyana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
