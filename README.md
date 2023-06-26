@@ -11,9 +11,11 @@
 <div>
 - 👩🏾‍💻 Sou formada no curso técnico de Desenvolvimento de Sistemas pela Etec Jales.
 </div>
+<br>
 <div>
 - 🌻 Atualmente estou graduando Análise e Desenvolvimento de Sistemas pela Fatec Jales.
 </div>
+<br>
 <div>
 - ☀️ Tenho bastante interesse em UX/UI.
 </div>
