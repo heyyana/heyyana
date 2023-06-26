@@ -8,13 +8,13 @@
 <img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
 </div>
 
-<div align="center">
+<div>
 - 👩🏾‍💻 Sou formada no curso técnico de Desenvolvimento de Sistemas pela Etec Jales.
 </div>
-<div align="center">
+<div>
 - 🌻 Atualmente estou graduando Análise e Desenvolvimento de Sistemas pela Fatec Jales.
 </div>
-<div align="center">
+<div>
 - ☀️ Tenho bastante interesse em UX/UI.
 </div>
 <br> 
