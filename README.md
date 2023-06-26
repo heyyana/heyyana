@@ -5,10 +5,8 @@
 <div align="center">
   
 ## Oi, eu sou a Ana!
-
+<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
 </div>
-
- <img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
 
 <div align="center">
 - 👩🏾‍💻 Sou formada no curso técnico de Desenvolvimento de Sistemas pela Etec Jales.
