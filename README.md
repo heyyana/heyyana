@@ -14,9 +14,12 @@
 - 👩🏾‍💻 Sou formada no curso técnico de Desenvolvimento de Sistemas pela Etec Jales.
 </div>
 <div align="center">
-- 🌻 Altualmente estou graduando Análise e Desenvolvimento de Sistemas pela Fatec Jales.
+- 🌻 Atualmente estou graduando Análise e Desenvolvimento de Sistemas pela Fatec Jales.
 </div>
-<br> <br> <br> <br>
+<div align="center">
+- ☀️ Tenho bastante interesse em UX/UI.
+</div>
+<br> 
 
 <div align="center">
   <a href="https://github.com/heyyana/">
