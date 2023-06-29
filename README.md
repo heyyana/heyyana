@@ -40,7 +40,7 @@
 ##
 
 <div> 
- <img align="left" height="200" width="200" src= "https://github.com/heyyana/heyyana/assets/110052074/963a0cfa-fc48-4d98-a57a-c2703cdc1320"/>
+ <img align="left" height="200" width="200" src= "https://github.com/heyyana/heyyana/assets/110052074/d0c754ca-4365-48cf-91ac-134c82f167e8"/>
 </div>
 <br>
 
