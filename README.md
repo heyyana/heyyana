@@ -3,7 +3,7 @@
 <div align="center">
 <br>
 
- ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70C64&center=true&width=435&lines=Bem-vinda(o),+sou+a+Ana!)
+ ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70C64&center=true&width=435&lines=Bem-vinda(o),+sou+a+Ana!) 
 
 <img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
 </div>
@@ -17,7 +17,7 @@
 </div>
 <br>
 <div>
-- ☀️ Tenho bastante interesse em UX/UI.
+- ☀️ Tenho bastante interesse em UX/UI. 
 </div>
 <br> <br> <br> <br>
 <div align="center">
@@ -26,6 +26,9 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyyana&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<div align="center" style="display: inline_block">
+ <img width="55px" src="https://github.githubassets.com/images/mona-whisper.gif">
+ </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Js logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
