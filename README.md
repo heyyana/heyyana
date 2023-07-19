@@ -66,4 +66,4 @@
 <br>
 
   
-![Snake animation](https://github.com/heyyana/heyyana/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/heyyana/heyyana/blob/output/github-contribution-grid-snake.svg)
