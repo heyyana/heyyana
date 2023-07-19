@@ -45,6 +45,8 @@
 
  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70C64&center=true&width=435&lines=Minhas+redes+sociais:)
 
+  <img align="right" height="200"  style="padding-right=100px" src="https://i.imgur.com/Tznn1IZ.gif"/>
+
 <div> 
  <img align="left" height="200" width="200" src= "https://github.com/heyyana/heyyana/assets/110052074/d0c754ca-4365-48cf-91ac-134c82f167e8"/>
 </div>
