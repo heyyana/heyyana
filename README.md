@@ -1,4 +1,7 @@
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+<div align="center" style="display: inline_block">
+ <img width="55px" src="https://github.githubassets.com/images/mona-whisper.gif">
+ </div>
 
 <div align="center">
 <br>
@@ -25,10 +28,6 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=heyyana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyyana&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<div align="center" style="display: inline_block">
- <img width="55px" src="https://github.githubassets.com/images/mona-whisper.gif">
- </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Js logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
