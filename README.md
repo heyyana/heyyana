@@ -42,7 +42,8 @@
 </div>
 
 ##
-
+<div align="center">
+ 
  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70C64&center=true&width=435&lines=Minhas+redes+sociais:)
 
   <img align="right" height="200"  style="padding-right=100px" src="https://i.imgur.com/Tznn1IZ.gif"/>
@@ -66,6 +67,7 @@
   <a href = "mailto:anaacconceicao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>  
 <br>
+</div> 
 
   
 ![Snake animation](https://github.com/heyyana/heyyana/blob/output/github-contribution-grid-snake.svg)
