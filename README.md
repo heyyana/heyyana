@@ -5,7 +5,7 @@
 
 <div align="center">
 <br>
-
+  
  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70C64&center=true&width=435&lines=Bem-vinda(o),+sou+a+Ana!) 
 
 <img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
@@ -20,9 +20,12 @@
 </div>
 <br>
 <div>
-- ☀️ Tenho bastante interesse em UX/UI. 
+- ☀️ Tenho bastante interesse em UX/UI.   
 </div>
-<br> <br> <br> <br>
+<br> <br> <br> 
+<div align="center">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> 
+</div>
 <div align="center">
   <a href="https://github.com/heyyana/">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=heyyana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -69,5 +72,8 @@
 <br>
 </div> 
 
+<div align="center">
+ <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="38"/>
+</div>
   
 ![Snake animation](https://github.com/heyyana/heyyana/blob/output/github-contribution-grid-snake.svg)
