@@ -47,6 +47,10 @@
  
  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70C64&center=true&width=435&lines=Minhas+redes+sociais:)
 
+ <div align="center">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="42px"> 
+</div>
+
   <img align="right" height="200"  style="padding-right=100px" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
 <div> 
@@ -70,9 +74,6 @@
 <br>
 </div> 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="42px"> 
-</div>
   
 ![Snake animation](https://github.com/heyyana/heyyana/blob/output/github-contribution-grid-snake.svg)
 
