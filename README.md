@@ -45,36 +45,20 @@
 ##
 <div align="center">
  
- ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70C64&center=true&width=435&lines=Minhas+redes+sociais:)
-
- <div align="center">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="42px"> 
-</div>
-
-  <img align="right" height="200"  style="padding-right=100px" src="https://i.imgur.com/Tznn1IZ.gif"/>
+ ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70C64&center=true&width=435&lines=Minhas+redes+sociais:)   
 
 <div> 
- <img align="left" height="200" width="200" src= "https://github.com/heyyana/heyyana/assets/110052074/d0c754ca-4365-48cf-91ac-134c82f167e8"/>
+ <img align="center" height="200" width="200" src= "https://github.com/heyyana/heyyana/assets/110052074/d0c754ca-4365-48cf-91ac-134c82f167e8"/>
 </div>
 <br>
 
 <div style= "display: grid">
-<a style="margin-left: -100px" href="https://www.linkedin.com/in/anacarolinaconceicao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
-<br>
-
- <div style= "display: grid">
+   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="42px"> 
+  <a href = "mailto:anaacconceicao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a style="margin-left: -100px" href="https://www.linkedin.com/in/anacarolinaconceicao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://anacconceicao2005.wixsite.com/my-site-2" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 </div> 
-<br>
-
-<div style= "display: grid">
-  <a href = "mailto:anaacconceicao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>  
-<br>
-</div> 
-
-  
+ 
 ![Snake animation](https://github.com/heyyana/heyyana/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
