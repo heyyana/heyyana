@@ -8,6 +8,8 @@
 
 </div>
 
+<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
+
 <div>
 - 👩🏾‍💻 Sou formada no curso técnico de Desenvolvimento de Sistemas pela Etec Jales.
 </div>
