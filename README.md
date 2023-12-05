@@ -6,7 +6,6 @@
   
  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70C64&center=true&width=435&lines=Bem-vinda(o),+sou+a+Ana!) 
 
-<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
 </div>
 
 <div>
