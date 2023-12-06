@@ -53,7 +53,7 @@
   
   <a href = "mailto:anaacconceicao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a style="margin-left: -100px" href="https://www.linkedin.com/in/anacarolinaconceicao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://anacconceicao2005.wixsite.com/my-site-2" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+  <a href="https://anacconceicao2005.wixsite.com/anacarolina" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 </div> 
  
 ![Snake animation](https://github.com/heyyana/heyyana/blob/output/github-contribution-grid-snake.svg)
