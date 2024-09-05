@@ -4,7 +4,7 @@
 <div align="center">
 <br>
   
- ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70C64&center=true&width=435&lines=Bem-vinda(o),+sou+a+Ana!) 
+ ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70C64&center=true&width=550&lines=Bem-vinda(o),+sou+a+Ana!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9) 
 
 </div>
 
