@@ -1,27 +1,25 @@
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
-
-
-<div align="center">
-<br>
   
- ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70C64&center=true&width=550&lines=Bem-vinda(o),+sou+a+Ana!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9) 
+<br>
 
+  <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=22&pause=1000&color=FF35A6&center=true&vCenter=true&random=false&width=435&lines=%E0%BC%9A%E2%9C%A7%E2%81%8E%E2%81%BA%CB%B3Oi!+Eu+sou+a+Ana%CB%B3%E2%81%BA%E2%81%8E%E2%9C%A7%E0%BC%9A+" alt="Typing SVG">
+  </a>
 </div>
 
 <img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
 
-<div>
-- 👩🏾‍💻 Sou formada no curso técnico de Desenvolvimento de Sistemas pela Etec Jales.
+<div align="center">
+- 👩🏾‍💻 Formada no técnico de Desenvolvimento de Sistemas pela Etec Jales.
 </div>
-<br>
-<div>
-- 🌻 Atualmente estou graduando Análise e Desenvolvimento de Sistemas pela Fatec Jales.
+<div align="center">
+- 🌻 Graduando Análise e Desenvolvimento de Sistemas pela Fatec Jales.
 </div>
-<br>
-<div>
-- ☀️ Tenho bastante interesse em UX/UI.   
+<div align="center">
+- ☀️ Tenho bastante interesse em UX/UI voltado para acessibilidade.   
 </div>
-<br> <br> <br> <br>
+<br> 
 
 <div align="center">
   <a href="https://github.com/heyyana/">
@@ -40,22 +38,16 @@
 </div>
 
 ##
-<div align="center">
- 
- ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70C64&center=true&width=435&lines=Minhas+redes+sociais:)   
-
+<div align="center"> 
 
 <br>
 
-<div style= "display: grid">
-  
-  <a href = "mailto:anaacconceicao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a style="margin-left: -100px" href="https://www.linkedin.com/in/anacarolinaconceicao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://anacconceicao2005.wixsite.com/anacarolina" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-</div> 
+[![E-mail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=ff31a7&color:FFF)](mailto:anaacconceicao@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ff31a7&color:FFF)](https://www.linkedin.com/in/anacarolinaconceicao/)
+[![Portifolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=devdotto&logoColor=ff31a7&color:FFF)](https://www.behance.net/heyyanaa)
  
 ![Snake animation](https://github.com/heyyana/heyyana/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
- <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="38"/>
-</div>
+<p align= "center">
+  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="120px" height="120px" alt="HelloKittyByeBye"></a>
+</p>
