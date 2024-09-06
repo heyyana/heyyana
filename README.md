@@ -8,13 +8,12 @@
   </a>
 </div>
 
-<div align="left">
-<img align="left" height="80" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
+<div align="center">
 - 👩🏾‍💻 Formada no técnico de Desenvolvimento de Sistemas pela Etec Jales.
 <br>
 - 🌻 Graduando Análise e Desenvolvimento de Sistemas pela Fatec Jales.
 <br>
-- ☀️ Tenho bastante interesse em UX/UI voltado para acessibilidade.   
+- ☀️ Tenho bastante interesse em UX/UI voltado para a acessibilidade.   
 </div>
 
 <br> 
@@ -34,11 +33,9 @@
   <img align="center" alt="C logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  <img align="center" alt="figma logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=22&pause=1000&color=FF35A6&center=true&vCenter=true&random=false&width=435&lines=%E0%BC%9A%E2%9C%A7%E2%81%8E%E2%81%BA%CB%B3%CB%B3%E2%81%BA%E2%81%8E%E2%9C%A7" alt="Typing SVG">
-  </a>
+<br>
+<div align="center"> 
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/b9c7176f-0ea7-4b60-bc94-d3b9c371df7f" width="70">
 </div>
 
 <div align="center"> 
@@ -48,9 +45,11 @@
 [![E-mail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=ff31a7&color:FFF)](mailto:anaacconceicao@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ff31a7&color:FFF)](https://www.linkedin.com/in/anacarolinaconceicao/)
 [![Portifolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=devdotto&logoColor=ff31a7&color:FFF)](https://www.behance.net/heyyanaa)
+
+<img align="center" height="80" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
  
 ![Snake animation](https://github.com/heyyana/heyyana/blob/output/github-contribution-grid-snake.svg)
 
 <p align= "center">
-  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="120px" height="120px" alt="HelloKittyByeBye"></a>
+  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="80px" height="80px" alt="HelloKittyByeBye"></a>
 </p>
