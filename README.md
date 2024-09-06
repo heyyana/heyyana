@@ -8,17 +8,15 @@
   </a>
 </div>
 
-<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
-
-<div align="center">
+<div align="left">
+<img align="left" height="80" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
 - 👩🏾‍💻 Formada no técnico de Desenvolvimento de Sistemas pela Etec Jales.
-</div>
-<div align="center">
+<br>
 - 🌻 Graduando Análise e Desenvolvimento de Sistemas pela Fatec Jales.
-</div>
-<div align="center">
+<br>
 - ☀️ Tenho bastante interesse em UX/UI voltado para acessibilidade.   
 </div>
+
 <br> 
 
 <div align="center">
