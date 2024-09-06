@@ -37,7 +37,12 @@
  <img align="center" alt="figma logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
-##
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=22&pause=1000&color=FF35A6&center=true&vCenter=true&random=false&width=435&lines=%E0%BC%9A%E2%9C%A7%E2%81%8E%E2%81%BA%CB%B3%CB%B3%E2%81%BA%E2%81%8E%E2%9C%A7" alt="Typing SVG">
+  </a>
+</div>
+
 <div align="center"> 
 
 <br>
