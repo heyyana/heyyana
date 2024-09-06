@@ -51,5 +51,5 @@
 ![Snake animation](https://github.com/heyyana/heyyana/blob/output/github-contribution-grid-snake.svg)
 
 <p align= "center">
-  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="80px" height="80px" alt="HelloKittyByeBye"></a>
-</p>
+  <a href="https://emoji.gg/emoji/6171-cinnamorolllemon"><img src="https://cdn3.emoji.gg/emojis/6171-cinnamorolllemon.gif" width="72px" height="72px" alt="CinnamorollLemon"></a>
+</p> 
