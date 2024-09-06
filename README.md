@@ -20,8 +20,8 @@
 
 <div align="center">
   <a href="https://github.com/heyyana/">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=heyyana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyyana&layout=compact&langs_count=7&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=heyyana&show_icons=true&theme=dark&include_all_commits=true&title_color=FF35A6FF&icon_color=FF35A6FF&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyyana&layout=compact&title_color=FF35A6FF&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
