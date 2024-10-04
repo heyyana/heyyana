@@ -35,7 +35,7 @@
 </div>
 <br>
 <div align="center"> 
-<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/b9c7176f-0ea7-4b60-bc94-d3b9c371df7f" width="80">
+<img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/b9c7176f-0ea7-4b60-bc94-d3b9c371df7f" width="90">
 </div>
 
 <div align="center"> 
