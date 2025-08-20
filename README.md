@@ -11,7 +11,7 @@
 <div align="center">
 - 👩🏾‍💻 Formada no técnico de Desenvolvimento de Sistemas pela Etec Jales.
 <br>
-- 🌻 Graduando Análise e Desenvolvimento de Sistemas pela Fatec Jales.
+- 🌻 Formada em Análise e Desenvolvimento de Sistemas pela Fatec Jales.
 <br>
 - ☀️ Tenho bastante interesse em UX/UI voltado para a acessibilidade.   
 </div>
